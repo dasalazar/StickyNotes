@@ -1,0 +1,1 @@
+package model;import android.content.Intent;import com.example.dodo.myapplication.StickNotes;/** * Created by dodo on 25/05/16. */public class Util{}

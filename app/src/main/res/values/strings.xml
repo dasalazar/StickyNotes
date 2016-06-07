@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StickyNotes</string>
+    <string name="title_activity_stick_notes">StickNotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Seus StickNotes: %1$d</string>
+    <string name="login_usuario">Usuário obrigatório</string>
+    <string name="login_senha">Senha obrigatório</string>
+    <string name="login_email">Email é obrigatório</string>
+    <string name="action_sair">Sair</string>
+    <string name="action_add">Add</string>
+    <string name="stick_note_nota">Preencha texto para nota</string>
+    <string name="stick_note_titulo">Preencha o título</string>
+
+</resources>
